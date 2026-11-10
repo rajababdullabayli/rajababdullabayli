@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Rajab 👋
 
-<!--
-**rajababdullabayli/rajababdullabayli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **IT Student at ASOIU** | 🚀 **Java Backend Developer Learner**
 
-Here are some ideas to get you started:
+Passionate about building scalable backend systems, RESTful APIs, and enterprise-level applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+- **Languages:** Java 8+, SQL
+- **Frameworks:** Spring Boot, Spring Data JPA
+- **Databases:** MySQL
+- **Concepts:** Core Java, OOP, Collections, Streams API, RESTful APIs, SOLID Principles, Design Patterns
+- **Tools:** IntelliJ IDEA, Git, GitHub, Postman
+
+---
+
+### 🌐 Connect with Me
+- **LinkedIn:** [linkedin.com/in/rajab-abdullabayli-b714b2384](https://linkedin.com/in/rajab-abdullabayli-b714b2384)
+- **Email:** receb.abdullabayli@gmail.com
